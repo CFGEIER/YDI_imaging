@@ -1,7 +1,7 @@
 Welcome to the YDI Lab Imaging Analysis Book!
 =============================
 
-This book is intended to serve as a central resource for all things related to imaging analysis in the 'YDI_Lab'_.
+This book is intended to serve as a central resource for all things related to imaging analysis in the YDI_Lab 
 
 .. _YDI_Lab: https://www.ydiatuga.com/home
 
