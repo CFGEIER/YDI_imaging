@@ -10,7 +10,7 @@ This book is intended to serve as a central resource for all things related to i
    :maxdepth: 1
    :caption: Data Transfer
 
-   Data Transfer/BIRC_2_GACRC
+   Data_Transfer/BIRCtoGACRC.rst
    
    
 .. toctree::
