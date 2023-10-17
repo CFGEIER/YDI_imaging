@@ -1,0 +1,8 @@
+## Initial data processing steps on Sapelo2 (GACRC) starting with raw *.zip image files from BIRC
+
+Notes: As of now (10/17/23) we are transferring raw data from BIRC to Dr. Geier's /scratch directory due to space issues in the /work directory. This will probably change from /scratch to /project soon [/project is only accessible and viewable via transfer nodes on GACRC (i.e., @xfer.gacrc.uga.edu)]
+
+
+######
+
+Step 1: Unzip the data transferred from BIRC. 
