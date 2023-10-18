@@ -1,6 +1,10 @@
 Welcome to the YDI Lab Imaging Analysis Book!
 =============================
 
+.. figure:: YDIlogo_UGA_black.png
+
+.. figure:: WhatWeDo_YDI.png
+
 This book is intended to serve as a central resource for all things related to imaging analysis in the `YDI_Lab <https://www.ydituga.com/home>`__.
 
 .. toctree::
