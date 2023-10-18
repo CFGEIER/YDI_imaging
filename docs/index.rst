@@ -38,6 +38,4 @@ This book is intended to serve as a central resource for all things related to i
 .. note::
     This book is under construction. More chapters will be added in the coming weeks; my goal is to have a complete draft by the end of the year.
     
-    10.17.2023: Finished the sections Unix Tutorial #4, fMRI Short Course chapters on smoothing and quality checking FEAT output, and added a playlist covering all of the sections done in the Preprocessing module.
-    
     
