@@ -30,10 +30,9 @@ import os
 # ones.
 extensions = ['sphinx_rtd_theme']
 
-extensions = [
-    #[...]
-    "sphinxcontrib.video",
-]
+extensions = ['sphinxcontrib.video']
+
+extensions = ['sphinx.ext.intersphinx', 'sphinxcontrib.youtube']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
