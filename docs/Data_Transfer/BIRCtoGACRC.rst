@@ -25,8 +25,10 @@ Click `HERE <https://https://youtu.be/DKz-VTU0kIY?si=8KIOf7xR3lcQU9O7>`__. for a
 
 4. Click on the 'File Manager' button on the left taskbar. Click on Collection (left side) and choose 'Geier_laptop_72936' (or 'YDI_BRANCH' if using the Linux machine in the lab). Find the Downloads directory (or wherever you downloaded the BIRC data) and double-click on it to view the contents. Select the files you want to transfer to GACRC.
 
-5. Click on Collection (right side) and choose 'UGA GACRC Collection (All GACRC filesystems) - GACRC Users only. In 'path', type '/scratch/cg99681/processing' 
+5. Click on Collection (right side) and choose 'UGA GACRC Collection (All GACRC filesystems) - GACRC Users only. In 'path', type '/work/cglab/projects/BRANCH/data/fmri/raw' 
 
 6. Click on the blue 'Start' button on the left side to start the transfer of files from your computer to the GACRC. You can check progress by clicking on the 'Activity' button on the left taskbar. You should also receive an email to your UGA account letting you know when the transfer is complete. 
+
+.. figure:: GlobusTransferLocations.png
 
 7. Once the transfer is complete, exit Globus Connect Personal by closing the browser tab
