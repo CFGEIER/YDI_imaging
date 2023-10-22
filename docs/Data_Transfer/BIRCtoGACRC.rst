@@ -17,7 +17,7 @@ Follow these steps:
         <iframe src="https://youtu.be/a1x7GIwc7GM?si=i3_mGx6JAcpkud10" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
 
-Click `here <https://https://youtu.be/a1x7GIwc7GM?si=i3_mGx6JAcpkud10>`__. for a brief YouTube video highlighting this step. 
+Click `HERE <https://https://youtu.be/a1x7GIwc7GM?si=i3_mGx6JAcpkud10>`__ for a brief YouTube video highlighting this step. 
 
 3. Open Globus Connect Personal and log in
 
