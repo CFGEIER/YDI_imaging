@@ -11,7 +11,7 @@ Follow these steps:
 
 2. Open the link from BIRC in a web browser and download the data to your computer 
 
-.. figure:: BIRC_data.mov
+https://youtu.be/DKz-VTU0kIY
 
 3. Open Globus Connect Personal and log in
 
