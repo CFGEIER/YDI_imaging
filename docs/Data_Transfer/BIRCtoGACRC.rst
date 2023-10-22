@@ -11,7 +11,7 @@ Follow these steps:
 
 2. Open the link from BIRC in a web browser and download the data to your computer 
 
-.. figure:: YDI_Lab_DataTransfer.gif
+.. figure:: YDI_Lab_DataTransfer_copy.gif
 
 3. Open Globus Connect Personal and log in
 
