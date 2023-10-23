@@ -19,9 +19,9 @@ Follow these steps:
 
 
 
-3. Open Globus Connect Personal and log in
+3. Open Globus Connect Personal and log in with your username and password
 
-.. figure:: Globus_webpage.png
+.. note:: If you haven't already signed up for a Globus Connect personal, follow set-up instructions linked here https://wiki.gacrc.uga.edu/wiki/Globus_Connect_Personal
 
 4. Click on the 'File Manager' button on the left taskbar. Click on Collection (left side) and choose 'Geier_laptop_72936' (or 'YDI_BRANCH' if using the Linux machine in the lab). Find the Downloads directory (or wherever you downloaded the BIRC data) and double-click on it to view the contents. Select the files you want to transfer to GACRC.
 
