@@ -18,8 +18,8 @@ This book is intended to serve as a central resource for all things related to i
     :maxdepth: 1
     :caption: Useful Links
     
-    AFNI/afni_resources.rst
-    GACRC/gacrc_resources.rst
+    Useful Links/AFNI/afni_resources.rst
+    Useful Links/GACRC/gacrc_resources.rst
     
     
 
