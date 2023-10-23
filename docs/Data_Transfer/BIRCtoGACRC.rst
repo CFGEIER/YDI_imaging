@@ -11,13 +11,10 @@ Follow these steps:
 
 2. Open the link from BIRC in a web browser and download the data to your computer 
 
-.. raw:: html
-
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://youtu.be/DKz-VTU0kIY?si=8KIOf7xR3lcQU9O7" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div>
-
-Click `HERE <https://https://youtu.be/DKz-VTU0kIY?si=8KIOf7xR3lcQU9O7>`__. for a brief YouTube video highlighting this step. 
+.. image:: YoutubeThumbnail.png
+    :alt: IMAGE ALT TEXT HERE
+    :target: https://youtu.be/DKz-VTU0kIY?si=9w-rpRjmxgbqh9Ak&t=1
+Click `HERE <https://youtu.be/DKz-VTU0kIY?si=9w-rpRjmxgbqh9Ak&t=1>`__. for a brief YouTube video highlighting this step. 
 
 3. Open Globus Connect Personal and log in
 
