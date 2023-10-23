@@ -1,7 +1,7 @@
 =======================
 GACRC Resources
 =======================
-.. note:: This page is a work-in-progress. If you learn about additional useful resources, please let Dr. Geier and he will add them here! 
+.. note:: This page is a work-in-progress. If you learn about additional useful resources, please let Dr. Geier know and he will add them here! 
 
 
 1. GACRC Main Page
