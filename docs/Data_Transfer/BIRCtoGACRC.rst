@@ -29,6 +29,9 @@ Follow these steps:
 
 6. Click on the blue 'Start' button on the left side to start the transfer of files from your computer to the GACRC. You can check progress by clicking on the 'Activity' button on the left taskbar. You should also receive an email to your UGA account letting you know when the transfer is complete. 
 
-.. figure:: GlobusTransferLocations.png
+.. image:: Globus_webpage.png
+    :alt: IMAGE ALT TEXT HERE
+    :target: https://youtu.be/4_LMufqDm4c?si=APLqPJyr3uUYbNul&t=1
+
 
 7. Once the transfer is complete, exit Globus Connect Personal by closing the browser tab
