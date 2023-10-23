@@ -14,7 +14,6 @@ Follow these steps:
 .. image:: YoutubeThumbnail.png
     :alt: IMAGE ALT TEXT HERE
     :target: https://youtu.be/DKz-VTU0kIY?si=9w-rpRjmxgbqh9Ak&t=1
-Click `HERE <https://youtu.be/DKz-VTU0kIY?si=9w-rpRjmxgbqh9Ak&t=1>`__. for a brief YouTube video highlighting this step. 
 
 3. Open Globus Connect Personal and log in
 
