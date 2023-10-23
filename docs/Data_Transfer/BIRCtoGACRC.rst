@@ -9,7 +9,7 @@ Follow these steps:
 
 1. Obtain a link from BIRC with data via email. BRANCH data will be password protected (see Dr. Geier for password)
 
-2. Open the link from BIRC in a web browser and download the data to your computer 
+2. Open the link from BIRC in a web browser and download the data to your computer
 
 .. note::
     If you want to view the clip below in a new browser tab, click the middle (scroll wheel) button on your mouse or change your browser settings. Otherwise, be sure to click the back button to return to this page after watching the video.
