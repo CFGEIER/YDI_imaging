@@ -18,8 +18,8 @@ This book is intended to serve as a central resource for all things related to i
     :maxdepth: 1
     :caption: Useful Links
     
-    AFNI/Unix_01_Navigation
-    GACRC/Unix_02_CopyRemove
+    AFNI
+    GACRC
     
     
 
