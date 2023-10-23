@@ -16,7 +16,7 @@ Home page for all things AFNI
 =======================
 A tremendously useful page with loads of information!
 
-.. image:: AndysBrainPage.png
+.. image:: AndysBrainBook.png
     :alt: IMAGE ALT TEXT HERE
     :target: https://andysbrainbook.readthedocs.io/en/latest/index.html
 
