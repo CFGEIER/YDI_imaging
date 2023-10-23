@@ -11,8 +11,7 @@ Follow these steps:
 
 2. Open the link from BIRC in a web browser and download the data to your computer
 
-.. note::
-    If you want to view the clip below in a new browser tab, click the middle (scroll wheel) button on your mouse or change your browser settings. Otherwise, be sure to click the back button to return to this page after watching the video.
+.. note:: If you want to view the clip below in a new browser tab, click the middle (scroll wheel) button on your mouse or change your browser settings. Otherwise, be sure to click the back button to return to this page after watching the video.
 
 .. image:: YoutubeThumbnail.png
     :alt: IMAGE ALT TEXT HERE
