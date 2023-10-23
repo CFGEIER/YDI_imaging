@@ -15,6 +15,8 @@ Follow these steps:
     :alt: IMAGE ALT TEXT HERE
     :target: https://youtu.be/DKz-VTU0kIY?si=9w-rpRjmxgbqh9Ak&t=1
 
+
+
 3. Open Globus Connect Personal and log in
 
 .. figure:: Globus_webpage.png
