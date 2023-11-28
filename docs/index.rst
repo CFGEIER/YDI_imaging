@@ -11,21 +11,21 @@ This book is intended to serve as a central resource for all things related to i
    :maxdepth: 1
    :caption: Data Transfer
 
-   YDI_Imaging/docs/Data_Transfer/BIRCtoGACRC.rst
+   Data_Transfer/BIRCtoGACRC.rst
 
 .. toctree::
     :maxdepth: 1
     :caption: AFNI Quality Control (QC)
     
-   YDI_Imaging/docs/AFNI Quality Control (QC)/afniQC.rst
-   YDI_Imaging/docs/AFNI Quality Control (QC)/afniQC_help.rst
+   AFNI Quality Control (QC)/afniQC.rst
+   AFNI Quality Control (QC)/afniQC_help.rst
 
 .. toctree::
     :maxdepth: 1
     :caption: Useful Links
     
-   YDI_Imaging/docs/Useful Links/AFNI/afni_resources.rst
-   YDI_Imaging/docs/Useful Links/GACRC/gacrc_resources.rst
+   Useful Links/AFNI/afni_resources.rst
+   Useful Links/GACRC/gacrc_resources.rst
     
     
 
