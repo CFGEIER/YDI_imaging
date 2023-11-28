@@ -5,6 +5,9 @@ AFNI Quality Control (QC)
 Using afni_proc.py QC measures to assess imaging data & preprocessing 
 =======================
 
+OVERVIEW
+-----------------------
+
 afni_proc.py has the following options for Quality Control:
 
 -html_review_style STYLE : specify generation method for HTML review
@@ -27,7 +30,11 @@ OR
 
 Where 'index.html' is the main QC page that is created. However, this method doesn't utilize all of the features of the pythonic QC option. A preferred option is to create a local server using Python to view the QC output. 
 
-So, the first thing to do is to check to see if Python is installed on your computer by entering the following command in a terminal window (Mac):
+
+CHECKING YOUR PYTHON VERSION
+-----------------------
+
+The first thing to do is to check to see if Python is installed on your computer by entering the following command in a terminal window (Mac):
 
 .. code::
 
@@ -46,6 +53,8 @@ Or, if the "py" command is available, try...
    py -V
 
 
+CREATING A LOCAL SERVER
+-----------------------
 
 If your Python version is 3.X (or above), run the following command in the QC directory (typically called 'QC_subj#') generated from afni_proc.py.
 
@@ -62,6 +71,11 @@ If you have Python version 2.X,
 .. note:: Most of the instructions here are for MacOS.  On Windows, try "python -m http.server" or "py -3 -m http.server”
 
 After doing so, your terminal window should indicate that you started a session. 
+
+
+VIEWING THE QC OUTPUT IN A WEB BROWSER
+-----------------------
+
 Next, open up a browser window on your computer and type in the following URL: 
 
 .. code::
