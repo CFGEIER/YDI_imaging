@@ -43,16 +43,13 @@ If you have Python version 2.X,
 
    python -m SimpleHTTPServer
 
-..note::
-
-On Windows, try "python -m http.server" or "py -3 -m http.server”
-
+..note:: On Windows, try "python -m http.server" or "py -3 -m http.server”
 
 After doing so, your terminal window should indicate that you started a session. 
 Next, open up a browser window on your computer and type in the following URL: 
 
 .. code::
 
-localhost:8000
+   localhost:8000
 
-This should make the ".html" files in the QC directory appear as a website. 
+This should make the ".html" files in the QC directory appear as a website. On the next page, we'll talk about how to evaluate the various sections of the QC file. 
