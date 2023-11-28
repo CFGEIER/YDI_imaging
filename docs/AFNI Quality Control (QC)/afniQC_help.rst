@@ -50,6 +50,7 @@ Saving info
 
 
 DEFINITIONS   
+
 QC block 
     One thematic section of the QC form (original data, alignment
     step, etc.).  Each block has a label in the navigation bar (vorig,
@@ -95,7 +96,8 @@ filler buttons
     titles of the boxplots.
 
 
-[] SET BUTTON RATING   
+SET BUTTON RATING   
+
 To record an evaluation, click the button below any section label, and
 toggle through:
     + : good,
@@ -112,7 +114,9 @@ Pro-tip: if data are mostly all in a single state like good or bad,
 just use filler buttons to save yourself click time, and then just
 click any individual buttons that are different.  
 
-[] COMMENT   
+
+COMMENT   
+
 Use ctrl+click (or cmd+click, on Macs) on a QC button to toggle a comment
 window open/closed.
 
@@ -124,14 +128,16 @@ Comments are independent of rating, but adding a comment to an empty
 button changes its rating to ''?'' (which can be altered further from
 there).
 
-[] SAVE INFO   
+SAVE INFO
+
 Have the local server running (check the 'SAVING' button in the 
 upper-right corner).  
 
 When the local server is running, the QC and rating information is saved
 every time a button is updated.
 
-[] KEYBOARD NAVIGATION   
+KEYBOARD NAVIGATION   
+
 Use Tab to navigate the QC menu mirroring all above functionality.
 
 Hit Tab to move through the menu.  Hit Enter on a section label to
@@ -145,7 +151,8 @@ On the filler buttons |A+|, |Ax| and |A?|, use Enter to fill empty
 QC buttons and ctrl+Enter to fill *all* buttons. 
 On |clr|, ctrl+Enter clears all rating and comment values.  
 
-[] QC BLOCKS   
+QC BLOCKS   
+
 vorig
     Volumetric mages of data (EPI and anat) in original/native space.
     
@@ -179,7 +186,6 @@ vstat
     values within the data set (preferably from within a WB mask,
     available when the 'mask' block was used in afni_proc.py) or from
     pre-set statistical levels (like p=0.001).  Each is case is described.
-    
     
 mot
     Summary of motion and outlier information, which may each/both be
