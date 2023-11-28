@@ -14,15 +14,15 @@ This book is intended to serve as a central resource for all things related to i
    Data_Transfer/BIRCtoGACRC.rst
 
 .. toctree::
-    :maxdepth: 1
-    :caption: AFNI Quality Control (QC)
+   :maxdepth: 1
+   :caption: AFNI Quality Control (QC)
     
    AFNI Quality Control (QC)/afniQC.rst
    AFNI Quality Control (QC)/afniQC_help.rst
 
 .. toctree::
-    :maxdepth: 1
-    :caption: Useful Links
+   :maxdepth: 1
+   :caption: Useful Links
     
    Useful Links/AFNI/afni_resources.rst
    Useful Links/GACRC/gacrc_resources.rst
