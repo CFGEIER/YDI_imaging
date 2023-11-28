@@ -1,5 +1,5 @@
 =======================
-AFNI Quality Control (QC)
+Setting up your computer to use AFNI's Quality Control (QC)
 =======================
 
 Using afni_proc.py QC measures to assess imaging data & preprocessing 
