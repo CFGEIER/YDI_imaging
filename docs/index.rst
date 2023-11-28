@@ -17,14 +17,14 @@ This book is intended to serve as a central resource for all things related to i
     :maxdepth: 1
     :caption: AFNI Quality Control (QC)
     
-    AFNI Quality Control (QC)/afniQC.rst
-   
+   AFNI Quality Control (QC)/afniQC.rst
+
 .. toctree::
     :maxdepth: 1
     :caption: Useful Links
     
-    Useful Links/AFNI/afni_resources.rst
-    Useful Links/GACRC/gacrc_resources.rst
+   Useful Links/AFNI/afni_resources.rst
+   Useful Links/GACRC/gacrc_resources.rst
     
     
 
