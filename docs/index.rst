@@ -12,7 +12,12 @@ This book is intended to serve as a central resource for all things related to i
    :caption: Data Transfer
 
    Data_Transfer/BIRCtoGACRC.rst
-   
+
+.. toctree::
+    :maxdepth: 1
+    :caption: AFNI Quality Control (QC)
+    
+    AFNI Quality Control (QC)/afniQC.rst
    
 .. toctree::
     :maxdepth: 1
