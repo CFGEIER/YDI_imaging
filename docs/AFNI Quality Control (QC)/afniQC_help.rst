@@ -238,14 +238,10 @@ regr
     Two TSNR dsets can be shown.  In each case, voxelwise TSNR is shown
     throughout the full FOV, and any brain mask dset is just used for
     defining a region within which percentiles are calculated. The generic 
-    formula for TSNR is:
-                TSNR = average(signal) / stdev(noise)
-    + First, the TSNR of r01 after volreg is shown if the user used the
-      '-volreg_compute_tsnr yes' opt in AP. Here, the "signal" is the time
-      series and the "noise" is the detrended time series.
-    + Second, the TSNR of the combined runs after regression modeling is
-      shown. Here, the "signal" is the all_runs dset and the "noise" is
-      the errts time series.
+    formula for TSNR is: TSNR = average(signal) / stdev(noise).
+    First, the TSNR of r01 after volreg is shown if the user used the '-volreg_compute_tsnr yes' opt in AP. Here, the        "signal" is the time series and the "noise" is the detrended time series.
+    Second, the TSNR of the combined runs after regression modeling is
+    shown. Here, the "signal" is the all_runs dset and the "noise" is the errts time series.
     
     When a mask is present, the olay's hot colors (yellow-orange-red) are
     defined by the 5-95%ile range of TSNR in the mask.  The 1-5%ile values
@@ -264,8 +260,7 @@ warns
     processing (e.g., pre-steady state check, regression matrix corr
     warnings, left-right flip checks).  Warnings are conglomerated here.
     
-    Each warning has one of the following levels:
-         none undecided mild medium severe
+    Each warning has one of the following levels: none undecided mild medium severe
     
     The warning level is written, with color coding, at the top of each
     warning's text box.  The QC block label 'warns' at the top of the page
