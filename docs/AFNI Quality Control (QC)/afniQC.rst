@@ -52,6 +52,9 @@ Or, if the "py" command is available, try...
 
    py -V
 
+.. note:: If no version of Python is installed on your computer, talk with Dr. Geier for assistance and/or use one of the macs in Pound Hall Room 217. 
+
+
 
 CREATING A LOCAL SERVER
 -----------------------
