@@ -47,7 +47,6 @@ Or, if the "py" command is available, try...
 
 
 
-
 If your Python version is 3.X (or above), run the following command in the QC directory (typically called 'QC_subj#') generated from afni_proc.py.
 
 .. code::
@@ -60,7 +59,7 @@ If you have Python version 2.X,
 
    python -m SimpleHTTPServer
 
-..note:: On Windows, try "python -m http.server" or "py -3 -m http.server”
+.. note:: Most of the instructions here are for MacOS.  On Windows, try "python -m http.server" or "py -3 -m http.server”
 
 After doing so, your terminal window should indicate that you started a session. 
 Next, open up a browser window on your computer and type in the following URL: 
