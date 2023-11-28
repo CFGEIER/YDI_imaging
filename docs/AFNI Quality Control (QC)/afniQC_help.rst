@@ -34,11 +34,8 @@ Saving info
     If you have a local server running, then as you click and type
     the rating/QC buttons the information will be saved automatically
     in the QC directory.  The 'SAVE:' button in the upper-left corner
-    shows whether the server is running:  
-    + if the letters are green and visible, then the server is running
-      (and your QC info is being saved).
-    + if the letters are gray with a red line through them, then the
-      server is not running (and your QC info is not being saved).
+    shows whether the server is running: + if the letters are green and visible, then the server is running (and your QC     info is being saved). + if the letters are gray with a red line through them, then the
+    server is not running (and your QC info is not being saved).
  
     It is useful to start the server and save QC/rating info for
     sharing and/or later using inclusion/exclusion criteria for the
@@ -48,7 +45,7 @@ Saving info
     The ratings are also saved in 'extra_info/out.ss_review.*.json', 
     which is a file that can be used as an input file to 
     gen_ss_review_table.py, combining the qualitative evaluations of
-    the APQC HTML with the quantitative ones gathered by afni_proc.py,
+    the APQC HTML with the quantitative ones gathered by afni_proc.py, 
     for systematic evaluation and QC of subject data.
 
 
@@ -56,7 +53,7 @@ DEFINITIONS
 QC block 
     One thematic section of the QC form (original data, alignment
     step, etc.).  Each block has a label in the navigation bar (vorig,
-    ve2a, etc.)-- click on the label to jump to that block. Click on
+    ve2a, etc.)-- click on the label to jump to that block. Click on 
     the button below the label to provide a rating for that block.
 
 QC buttons
