@@ -5,7 +5,7 @@ Interpreting AFNI's QC measures
 The following is a copy of the help.html file generated from afni_proc.py with the -html_review_style pythonic option. 
 =======================
 
-**OVERVIEW**   
+OVERVIEW
 QC organization
     The quality control (QC) is organized into thematic blocks to
     check, such as original data acquisition, different alignments,
