@@ -6,6 +6,7 @@ The following is a copy of the help.html file generated from afni_proc.py with t
 =======================
 
 OVERVIEW
+-----------------------
 
 QC organization
     The quality control (QC) is organized into thematic blocks to
