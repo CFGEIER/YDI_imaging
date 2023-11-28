@@ -99,10 +99,7 @@ filler buttons
 SET BUTTON RATING   
 
 To record an evaluation, click the button below any section label, and
-toggle through:
-    + : good,
-    X : bad,
-    ? : other (or 'revisit').
+toggle through: + : good, X : bad, ? : other (or 'revisit').
 
 For speed, you can click 'filler button' |A+| once to fill all *empty*
 buttons with +, or doubly to fill *all* buttons with +.  |Ax| behaves
