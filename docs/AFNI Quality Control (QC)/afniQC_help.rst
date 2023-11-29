@@ -5,7 +5,7 @@ Interpreting AFNI's QC measures
 The following is a copy of the help.html file generated from afni_proc.py with the -html_review_style pythonic option. 
 =======================
 
-For a review of best practices and field standards for QC, review the following paper: 
+For a review of best practices and field standards for QC, see 'Reynolds, R. C., Taylor, P. A., & Glen, D. (2023). Quality control practices in fMRI analysis: philosophy, methods, and examples using AFNI. Frontiers in Neuroscience, 16. https://doi.org/10.3389/fnins.2022.1073800` <https://doi.org/10.3389/fnins.2022.1073800>`__.
 
 OVERVIEW
 -----------------------
