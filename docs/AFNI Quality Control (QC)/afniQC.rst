@@ -8,9 +8,9 @@ Using afni_proc.py QC measures to assess imaging data & preprocessing
 OVERVIEW
 -----------------------
 
-afni_proc.py has a couple of different options that can create key images and metrics useful for data Quality Control. 
+The AFNI program afni_proc.py has a couple of options that can create critical images and metrics during preprocessing that can be useful for data quality control. For a full description of how to use afni_proc.py, see 
 
-Adding the option  "-html_review_style basic" is one option (the default) - this will create a series of files and commands enabling you to sequentially go through different QC metrics. 
+Adding the option  "-html_review_style basic" to the afni_proc.py script is one (and the default) option - this will create a series of files and commands enabling you to sequentially go through different QC metrics. 
 
 An alternative is to use the "-html_review_style pythonic" option. This will create a series of files that will enable you to examine and evaluate various QC metrics in a single webpage.  
 
