@@ -28,7 +28,7 @@ OR
 
    open_afni index.html
 
-Where 'index.html' is the main QC page that is created. However, this method only utilizes some of the features of the pythonic QC option. A preferred option is to create a local server using Python to view the QC output. 
+Where 'index.html' is the main QC page that is created. However, this method only utilizes some of the features of the pythonic QC option. A preferred option is to create a local server using Python to view the QC output. The following steps will show you how to set up your computer to do so. 
 
 
 CHECKING YOUR PYTHON VERSION
