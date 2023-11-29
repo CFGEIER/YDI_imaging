@@ -5,6 +5,8 @@ Interpreting AFNI's QC measures
 The following is a copy of the help.html file generated from afni_proc.py with the -html_review_style pythonic option. 
 =======================
 
+For a review of best practices and field standards for QC, review the following paper: 
+
 OVERVIEW
 -----------------------
 
