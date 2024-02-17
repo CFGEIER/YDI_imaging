@@ -22,3 +22,5 @@ Overview of Steps:
 7. Evaluate output using QC steps outlined on this site. 
 
 
+Processing KidVid Movies Task
+=======================
