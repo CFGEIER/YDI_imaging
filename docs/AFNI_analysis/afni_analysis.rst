@@ -22,7 +22,7 @@ Overview of Common Steps:
 7. Evaluate output using QC steps outlined on this site. 
 
 
-Processing KidVid Movies Task
+A. Processing KidVid Movies Task
 =======================
 
 1. Data from BIRC should be downloaded onto your lab computer (in the video linked below, data are located in the Downloads directory). 
