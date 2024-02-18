@@ -26,3 +26,7 @@ Processing KidVid Movies Task
 =======================
 
 1. 
+
+.. image:: dcm2niix.png
+    :alt: IMAGE ALT TEXT HERE
+    :target: https://youtu.be/HC1TUV4Dgb8?si=WAQB5Hi0NBTDcL6Z
