@@ -27,6 +27,6 @@ Processing KidVid Movies Task
 
 1. 
 
-.. image:: dcm2niix.png
+.. image:: Screenshot 2024-02-17 at 7.47.42 PM.png
     :alt: IMAGE ALT TEXT HERE
     :target: https://youtu.be/HC1TUV4Dgb8?si=WAQB5Hi0NBTDcL6Z
