@@ -15,6 +15,13 @@ This book is intended to serve as a central resource for all things related to i
 
 .. toctree::
    :maxdepth: 1
+   :caption: AFNI Analysis
+
+   AFNI_analysis/afni_analysis.rst
+
+
+.. toctree::
+   :maxdepth: 1
    :caption: AFNI Quality Control (QC)
     
    AFNI Quality Control (QC)/afniQC.rst
