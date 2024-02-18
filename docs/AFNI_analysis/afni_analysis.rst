@@ -37,7 +37,7 @@ A. Processing KidVid Movies Task
 
 .. image:: dcm2niix.png
     :alt: IMAGE ALT TEXT HERE
-    :target: https://youtu.be/HC1TUV4Dgb8?si=WAQB5Hi0NBTDcL6Z
+    :target: https://www.veed.io/view/4458254f-e0ef-4f03-b422-e2539372edfa?panel=share
 
 -----------------------------
 
