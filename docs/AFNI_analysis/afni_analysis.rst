@@ -5,7 +5,7 @@ AFNI processing
 Preprocessing at the individual subject level
 =======================
 
-Overview of Steps:
+Overview of Common Steps:
 
 1. Download files from BIRC (see Data_Transfer link). 
 
@@ -24,3 +24,5 @@ Overview of Steps:
 
 Processing KidVid Movies Task
 =======================
+
+1. 
