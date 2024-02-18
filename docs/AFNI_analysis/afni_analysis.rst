@@ -11,7 +11,7 @@ Overview of Common Steps:
 
 2. Run 'dcm2niix' to reconstruct 2D images (dicom files) into 3D and 3D+time.
 
-3. Transfer the *.nii and *.json files for the anatomical images (T1) and the functional images (T2*) to specific file locations on GACRC
+3. Transfer the *.nii and *.json files for the anatomical images (T1) and the functional images (T2*) to specific file locations on GACRC using GlobusConnect Personal. 
 
 4. Run the @SSwarper program to skull-strip and then non-linearly warp and transform the participant's anatomical image to standardized space (Haskins Pediatric Template). 
 
@@ -38,3 +38,10 @@ A. Processing KidVid Movies Task
 .. image:: dcm2niix.png
     :alt: IMAGE ALT TEXT HERE
     :target: https://youtu.be/HC1TUV4Dgb8?si=WAQB5Hi0NBTDcL6Z
+
+-----------------------------
+
+5. Next, open GlobusConnect Personal on your computer. 
+
+6. In the left panel of the GlobusConnect Personal GUI, select the directory from BIRC (which now contains the *.nii and *.json files you just created). On the right side, select the GACRC end point and type in the following path: 
+
