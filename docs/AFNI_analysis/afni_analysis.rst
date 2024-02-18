@@ -25,7 +25,15 @@ Overview of Common Steps:
 Processing KidVid Movies Task
 =======================
 
-1. 
+1. Data from BIRC should be downloaded onto your lab computer (in the video linked below, data are located in the Downloads directory). 
+
+2. Open MRIcron from Applications. 
+
+3. In the menu bar of MRIcron, select "Import" then "Convert DICOM to NIfTI".  A new graphical user interface (GUI) will open. 
+
+4. Drag and drop the data directory from BIRC into GUI to convert the files to *.nii and *.json. 
+
+-----------------------------
 
 .. image:: dcm2niix.png
     :alt: IMAGE ALT TEXT HERE
