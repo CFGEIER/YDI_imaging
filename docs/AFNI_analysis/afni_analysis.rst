@@ -45,3 +45,7 @@ A. Processing KidVid Movies Task
 
 6. In the left panel of the GlobusConnect Personal GUI, select the directory from BIRC (which now contains the *.nii and *.json files you just created). On the right side, select the GACRC end point and type in the following path: 
 
+.. code-block:: BASH
+
+  /project/cglab/BRANCH_raw_data/
+
