@@ -59,5 +59,7 @@ A. Processing KidVid Movies Task
 
   /work/cglab/projects/BRANCH/all_data/fmri/raw/
 
-8. Create a new directory for the participant. Use the naming convention "s[participant_number]".  In this example, the participant is 007, so the directory name should be s007/.  
+8. Create a new directory for the participant. Use the naming convention "s[participant_number]".  In this example, the participant is 007, so the directory name should be s007/. Double-click on the directory you just created.  
+
+9. On the right hand side of GlobusConnect, select all of the *.nii and *.json files that were created for this participant by clicking on the box next to each file name. Then, click blue 'Start' button to transfer the files to the s[participant_number] (e.g., s007) directory. 
 
