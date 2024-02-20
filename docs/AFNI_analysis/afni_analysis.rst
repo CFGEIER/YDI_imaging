@@ -43,7 +43,7 @@ A. Processing KidVid Movies Task
 
 5. Next, open GlobusConnect Personal on your computer. 
 
-6. In the left panel of the GlobusConnect Personal GUI, select the directory from BIRC (which now contains the *.nii and *.json files you just created). On the right side, select the GACRC end point and type in the following path: 
+6. In the left panel of the GlobusConnect Personal GUI, select the directory where the data from BIRC was downloaded (which now contains the *.nii and *.json files you just created). On the right side, select the GACRC end point and type in the path below. Then, click  
 
 .. code-block:: BASH
 
