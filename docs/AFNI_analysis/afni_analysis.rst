@@ -53,6 +53,14 @@ A. Processing KidVid Movies Task
 
 .. note:: This may take up to a few minutes to transfer. 
 
+-----------------------------
+
+.. image:: LabComp2GACRC.png
+    :alt: IMAGE ALT TEXT HERE
+    :target: https://www.veed.io/view/af0e2038-e162-42e9-8404-8d4a283eae34?panel=share
+
+-----------------------------
+
 7. Once the transfer is completed, change the path on the left side of your GlobusConnect page to the following path: 
 
 .. code-block:: BASH
@@ -61,5 +69,7 @@ A. Processing KidVid Movies Task
 
 8. Create a new directory for the participant. Use the naming convention "s[participant_number]".  In this example, the participant is 007, so the directory name should be s007/. Double-click on the directory you just created.  
 
-9. On the right hand side of GlobusConnect, select all of the *.nii and *.json files that were created for this participant by clicking on the box next to each file name. Then, click blue 'Start' button to transfer the files to the s[participant_number] (e.g., s007) directory. 
+9. On the right-hand side of GlobusConnect, select all of the *.nii and *.json files that were created for this participant by clicking on the box next to each file name. Then, click the blue 'Start' button to transfer these files to the "s[participant_number]" (e.g., s007) directory. 
+
+
 
