@@ -45,9 +45,19 @@ A. Processing KidVid Movies Task
 
 .. note:: GlobusConnect Personal and GlobusConnect are different. GlobusConnect Personal should be running in the background (on a Mac, it appears in the menu bar). GlobusConnect is accessed online (requires a login). 
 
-6. In the left panel of the GlobusConnect Personal GUI, select the directory where the data from BIRC was downloaded (which now contains the *.nii and *.json files you just created). On the right side, select the GACRC end point and type in the path below. Then, click  
+6. In the left panel of the GlobusConnect page, select the directory where the data from BIRC was downloaded (which now contains the *.nii and *.json files you just created). On the right side, select the GACRC endpoint and type in the path below. Select the directory by clicking the box next to its name. Then, click 'Start' (blue button under 'Path') under the BIRC file directory to transfer files FROM your computer TO the GACRC.   
 
 .. code-block:: BASH
 
   /project/cglab/BRANCH_raw_data/
+
+.. note:: This may take up to a few minutes to transfer. 
+
+7. Once the transfer is completed, change the path on the left side of your GlobusConnect page to the following path: 
+
+.. code-block:: BASH
+
+  /work/cglab/projects/BRANCH/all_data/fmri/raw/
+
+8. Create a new directory for the participant. Use the naming convention "s[participant_number]".  In this example, the participant is 007, so the directory name should be s007/.  
 
