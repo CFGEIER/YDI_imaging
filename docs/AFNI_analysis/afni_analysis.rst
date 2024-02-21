@@ -71,5 +71,11 @@ A. Processing KidVid Movies Task
 
 9. On the right-hand side of GlobusConnect, select all of the *.nii and *.json files that were created for this participant by clicking on the box next to each file name. Then, click the blue 'Start' button to transfer these files to the "s[participant_number]" (e.g., s007) directory. 
 
+-----------------------------
 
+.. image:: GACRC2work.png
+    :alt: IMAGE ALT TEXT HERE
+    :target: https://www.veed.io/view/54607bea-7723-4e84-a7ea-194436211a40?panel=share
+
+-----------------------------
 
