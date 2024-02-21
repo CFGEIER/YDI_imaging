@@ -75,6 +75,6 @@ A. Processing KidVid Movies Task
 
 .. image:: LabComp2GACRC.png
     :alt: IMAGE ALT TEXT HERE
-    :target: https://www.veed.io/view/af0e2038-e162-42e9-8404-8d4a283eae34?panel=share
+    :target: https://www.veed.io/view/54607bea-7723-4e84-a7ea-194436211a40?panel=share
 
 -----------------------------
